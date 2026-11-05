@@ -4,6 +4,6 @@
 | --- | --- | --- |
 | collab-1 | ... | Diawarawaa-A11Y |
 | collab-2 | ... | amar78-alt |
-| collab-3 | ... | ... |
+| collab-3 | ... | elimanekanee06 |
 
 Date de l'atelier : 04/11/2026
